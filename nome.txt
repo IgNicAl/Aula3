@@ -1,0 +1,4 @@
+c
+
+estou alterando o arquivo nome.txt
+ff
